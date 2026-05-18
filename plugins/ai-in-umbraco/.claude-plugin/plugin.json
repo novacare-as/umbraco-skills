@@ -1,0 +1,4 @@
+{
+  "name": "ai-in-umbraco",
+  "description": "Reference for Umbraco.AI \u2014 the provider-agnostic AI integration layer for Umbraco CMS, built on Microsoft.Extensions.AI. Use whenever the user mentions Umbraco.AI or AI in Umbraco; any `Umbraco.AI.*` package (Core, OpenAI, Anthropic, Google, MicrosoftFoundry, Amazon); injecting `IAIChatService`, `IAIEmbeddingService`, `IAIProfileService`, `IAIConnectionService`, `IAIGuardrailService`, `IAIContextService`, `IAIAuditLogService`, `IAIUsageAnalyticsService`, or `IAIAgentService`; profiles and aliases (`WithAlias(...)`), connections, contexts and the context picker, guardrails, AI middleware, tool calling, chat / embeddings / speech-to-text; the backoffice AI section; the AI Management API; the frontend AI controllers; AI testing and evaluation; and the add-ons Umbraco Agent, Agent Copilot, Prompt, Search, and Deploy."
+}

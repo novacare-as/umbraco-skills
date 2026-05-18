@@ -1,0 +1,26 @@
+{
+  "name": "umbraco-skills",
+  "owner": {
+    "name": "Novacare AS"
+  },
+  "metadata": {
+    "description": ""
+  },
+  "plugins": [
+    {
+      "name": "ai-in-umbraco",
+      "source": "./plugins/ai-in-umbraco",
+      "description": "Reference for Umbraco.AI \u2014 the provider-agnostic AI integration layer for Umbraco CMS, built on Microsoft.Extensions.AI. Use whenever the user mentions Umbraco.AI or AI in Umbraco; any `Umbraco.AI.*` package (Core, OpenAI, Anthropic, Google, MicrosoftFoundry, Amazon); injecting `IAIChatService`, `IAIEmbeddingService`, `IAIProfileService`, `IAIConnectionService`, `IAIGuardrailService`, `IAIContextService`, `IAIAuditLogService`, `IAIUsageAnalyticsService`, or `IAIAgentService`; profiles and aliases (`WithAlias(...)`), connections, contexts and the context picker, guardrails, AI middleware, tool calling, chat / embeddings / speech-to-text; the backoffice AI section; the AI Management API; the frontend AI controllers; AI testing and evaluation; and the add-ons Umbraco Agent, Agent Copilot, Prompt, Search, and Deploy."
+    },
+    {
+      "name": "umbraco-cms",
+      "source": "./plugins/umbraco-cms",
+      "description": "Reference for Umbraco CMS \u2014 the open source .NET CMS at docs.umbraco.com/umbraco-cms. Use whenever the user mentions Umbraco, Umbraco CMS, the backoffice, document types, data types, property editors, the block list / block grid / rich text editors, members, media, dictionary items, languages and culture variants, Razor templating, `IPublishedContent`, `UmbracoHelper`, `IPublishedContentQuery`, `IContentService`, `IMediaService`, `IMemberService`, `RenderController` route hijacking, `SurfaceController`, `UmbracoApiController`, `IComposer` / `IUserComposer`, `IContentFinder`, `IUrlProvider`, `INotificationHandler` and `ContentSavingNotification` / `ContentPublishedNotification`, the new Lit-based backoffice extension API and `umbraco-package.json` manifests, dashboards, sections, workspaces, contexts, Models Builder, Examine search, Content Delivery API, custom routing, health checks, packages, webhooks, configuration, security, Umbraco upgrades, multisite, and CMS tutorials."
+    },
+    {
+      "name": "umbraco-management-api",
+      "source": "./plugins/umbraco-management-api",
+      "description": "Reference for the Umbraco Management API \u2014 the v1 REST surface that administers an Umbraco CMS instance (the headless backoffice / management plane, distinct from the Content Delivery API and from `umbraco-ai`). Use whenever the user mentions Umbraco Management API, backoffice REST, `/umbraco/management/api/v1/`, OpenAPI/Swagger for Umbraco admin, scripted provisioning, custom backoffice UIs, or integration tests against the Umbraco backoffice; or any management domain noun: Document, Document Type, Document Blueprint, Document Version, Media, Media Type, Member, Member Type, Member Group, Template, Partial View, Script, Stylesheet, Static File, Language, Dictionary, Data Type, Relation, Relation Type, Tag, Webhook, Redirect Management, Health Check, Indexer, Searcher, Log Viewer, Telemetry, Server, Upgrade, Install, Published Cache, Imaging, Models Builder, oEmbed, Package, Property Type, Preview, User, User Group, Security, Culture, or Dynamic Root."
+    }
+  ]
+}

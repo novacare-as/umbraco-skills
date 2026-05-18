@@ -1,0 +1,218 @@
+# Search Index
+
+Use this index to find the right file for a specific term.
+Terms are grouped by category. Each entry shows the file(s) containing that term.
+
+## Topics & Concepts
+
+- **Advanced Options | AI in Umbraco** → `ai-in-umbraco/using-the-api/chat/advanced-options.md` · `docs.umbraco.com/ai-in-umbraco/using-the-api/chat/advanced-options.md`
+- **Agent Copilot | AI in Umbraco** → `ai-in-umbraco/add-ons/agent-copilot.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/agent-copilot.md`
+- **Agent Runtime | AI in Umbraco** → `ai-in-umbraco/add-ons/agent.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/agent.md`
+- **AI in Umbraco** → `ai-in-umbraco.md` · `docs.umbraco.com/ai-in-umbraco.md`
+- **AIAgent | AI in Umbraco** → `ai-in-umbraco/add-ons/agent/ai-agent-service/ai-agent.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/agent/ai-agent-service/ai-agent.md`
+- **AIAuditLog | AI in Umbraco** → `ai-in-umbraco/reference/models/ai-audit-log.md` · `docs.umbraco.com/ai-in-umbraco/reference/models/ai-audit-log.md`
+- **AICapability | AI in Umbraco** → `ai-in-umbraco/reference/models/ai-capability.md` · `docs.umbraco.com/ai-in-umbraco/reference/models/ai-capability.md`
+- **AIConnection | AI in Umbraco** → `ai-in-umbraco/reference/models/ai-connection.md` · `docs.umbraco.com/ai-in-umbraco/reference/models/ai-connection.md`
+- **AIContext | AI in Umbraco** → `ai-in-umbraco/reference/models/ai-context.md` · `docs.umbraco.com/ai-in-umbraco/reference/models/ai-context.md`
+- **AIEntityVersion | AI in Umbraco** → `ai-in-umbraco/reference/models/ai-entity-version.md` · `docs.umbraco.com/ai-in-umbraco/reference/models/ai-entity-version.md`
+- **AIGuardrail | AI in Umbraco** → `ai-in-umbraco/reference/models/ai-guardrail.md` · `docs.umbraco.com/ai-in-umbraco/reference/models/ai-guardrail.md`
+- **AIModelRef | AI in Umbraco** → `ai-in-umbraco/reference/models/ai-model-ref.md` · `docs.umbraco.com/ai-in-umbraco/reference/models/ai-model-ref.md`
+- **AIOptions | AI in Umbraco** → `ai-in-umbraco/reference/configuration/ai-options.md` · `docs.umbraco.com/ai-in-umbraco/reference/configuration/ai-options.md`
+- **AIProfile | AI in Umbraco** → `ai-in-umbraco/reference/models/ai-profile.md` · `docs.umbraco.com/ai-in-umbraco/reference/models/ai-profile.md`
+- **AIPrompt | AI in Umbraco** → `ai-in-umbraco/add-ons/prompt/ai-prompt-service/ai-prompt.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/prompt/ai-prompt-service/ai-prompt.md`
+- **AISettings | AI in Umbraco** → `ai-in-umbraco/reference/models/ai-settings.md` · `docs.umbraco.com/ai-in-umbraco/reference/models/ai-settings.md`
+- **Amazon Bedrock | AI in Umbraco** → `ai-in-umbraco/providers/amazon.md` · `docs.umbraco.com/ai-in-umbraco/providers/amazon.md`
+- **Analytics | AI in Umbraco** → `ai-in-umbraco/management-api/analytics.md` · `docs.umbraco.com/ai-in-umbraco/management-api/analytics.md`
+- **Anthropic | AI in Umbraco** → `ai-in-umbraco/providers/anthropic.md` · `docs.umbraco.com/ai-in-umbraco/providers/anthropic.md`
+- **API | AI in Umbraco** → `ai-in-umbraco/add-ons/agent/api.md` · `ai-in-umbraco/add-ons/prompt/api.md` · `ai-in-umbraco/testing-and-evaluation/api.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/agent/api.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/prompt/api.md` · `docs.umbraco.com/ai-in-umbraco/testing-and-evaluation/api.md`
+- **Audit Logs | AI in Umbraco** → `ai-in-umbraco/backoffice/audit-logs.md` · `ai-in-umbraco/management-api/audit-logs.md` · `docs.umbraco.com/ai-in-umbraco/backoffice/audit-logs.md` · `docs.umbraco.com/ai-in-umbraco/management-api/audit-logs.md`
+- **Authentication | AI in Umbraco** → `ai-in-umbraco/management-api/management-api/authentication.md` · `docs.umbraco.com/ai-in-umbraco/management-api/management-api/authentication.md`
+- **Backoffice integration** → `docs.umbraco.com/ai-in-umbraco.md`
+- **Basic Chat | AI in Umbraco** → `ai-in-umbraco/using-the-api/chat/basic-chat.md` · `docs.umbraco.com/ai-in-umbraco/using-the-api/chat/basic-chat.md`
+- **Batch Embeddings | AI in Umbraco** → `ai-in-umbraco/using-the-api/embeddings/batch-embeddings.md` · `docs.umbraco.com/ai-in-umbraco/using-the-api/embeddings/batch-embeddings.md`
+- **Be specific about the role** → `docs.umbraco.com/ai-in-umbraco/using-the-api/chat/system-prompts.md`
+- **Best Practices | AI in Umbraco** → `ai-in-umbraco/add-ons/deploy/best-practices.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/deploy/best-practices.md`
+- **Built on Microsoft.Extensions.AI (M.E.AI)** → `docs.umbraco.com/ai-in-umbraco.md`
+- **By alias** → `docs.umbraco.com/ai-in-umbraco/add-ons/prompt/api/get.md` · `docs.umbraco.com/ai-in-umbraco/testing-and-evaluation/api/get.md`
+- **By ID** → `docs.umbraco.com/ai-in-umbraco/add-ons/prompt/api/get.md` · `docs.umbraco.com/ai-in-umbraco/testing-and-evaluation/api/get.md`
+- **By Model | AI in Umbraco** → `ai-in-umbraco/management-api/analytics/breakdown-model.md` · `docs.umbraco.com/ai-in-umbraco/management-api/analytics/breakdown-model.md`
+- **By Profile | AI in Umbraco** → `ai-in-umbraco/management-api/analytics/breakdown-profile.md` · `docs.umbraco.com/ai-in-umbraco/management-api/analytics/breakdown-profile.md`
+- **By Provider | AI in Umbraco** → `ai-in-umbraco/management-api/analytics/breakdown-provider.md` · `docs.umbraco.com/ai-in-umbraco/management-api/analytics/breakdown-provider.md`
+- **By User | AI in Umbraco** → `ai-in-umbraco/management-api/analytics/breakdown-user.md` · `docs.umbraco.com/ai-in-umbraco/management-api/analytics/breakdown-user.md`
+- **Capabilities** → `docs.umbraco.com/ai-in-umbraco/add-ons/agent/instructions.md` · `docs.umbraco.com/ai-in-umbraco/concepts/concepts.md`
+- **Capabilities | AI in Umbraco** → `ai-in-umbraco/concepts/capabilities.md` · `docs.umbraco.com/ai-in-umbraco/concepts/capabilities.md`
+- **Chat Capability | AI in Umbraco** → `ai-in-umbraco/extending/providers/chat-capability.md` · `docs.umbraco.com/ai-in-umbraco/extending/providers/chat-capability.md`
+- **Chat Controller | AI in Umbraco** → `ai-in-umbraco/frontend/chat-controller.md` · `docs.umbraco.com/ai-in-umbraco/frontend/chat-controller.md`
+- **Chat Middleware | AI in Umbraco** → `ai-in-umbraco/extending/middleware/chat-middleware.md` · `docs.umbraco.com/ai-in-umbraco/extending/middleware/chat-middleware.md`
+- **Chat Repository | AI in Umbraco** → `ai-in-umbraco/frontend/chat-repository.md` · `docs.umbraco.com/ai-in-umbraco/frontend/chat-repository.md`
+- **Chat | AI in Umbraco** → `ai-in-umbraco/using-the-api/chat.md` · `ai-in-umbraco/management-api/chat.md` · `docs.umbraco.com/ai-in-umbraco/management-api/chat.md` · `docs.umbraco.com/ai-in-umbraco/using-the-api/chat.md`
+- **Check Alias Exists | AI in Umbraco** → `ai-in-umbraco/add-ons/prompt/api/alias-exists.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/prompt/api/alias-exists.md`
+- **Chunking** → `docs.umbraco.com/ai-in-umbraco/add-ons/search/concepts.md`
+- **Cleanup | AI in Umbraco** → `ai-in-umbraco/management-api/audit-logs/cleanup.md` · `docs.umbraco.com/ai-in-umbraco/management-api/audit-logs/cleanup.md`
+- **Compare Versions | AI in Umbraco** → `ai-in-umbraco/management-api/versions/compare.md` · `docs.umbraco.com/ai-in-umbraco/management-api/versions/compare.md`
+- **Compare | AI in Umbraco** → `ai-in-umbraco/testing-and-evaluation/api/compare.md` · `docs.umbraco.com/ai-in-umbraco/testing-and-evaluation/api/compare.md`
+- **Complete | AI in Umbraco** → `ai-in-umbraco/management-api/chat/complete.md` · `docs.umbraco.com/ai-in-umbraco/management-api/chat/complete.md`
+- **Concepts | AI in Umbraco** → `ai-in-umbraco/add-ons/agent/concepts.md` · `ai-in-umbraco/add-ons/prompt/concepts.md` · `ai-in-umbraco/add-ons/search/concepts.md` · `ai-in-umbraco/testing-and-evaluation/concepts.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/agent/concepts.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/prompt/concepts.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/search/concepts.md` · `docs.umbraco.com/ai-in-umbraco/testing-and-evaluation/concepts.md`
+- **Configuration | AI in Umbraco** → `ai-in-umbraco/add-ons/deploy/configuration.md` · `ai-in-umbraco/reference/configuration.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/deploy/configuration.md` · `docs.umbraco.com/ai-in-umbraco/reference/configuration.md`
+- **Connections** → `docs.umbraco.com/ai-in-umbraco/concepts/concepts.md`
+- **Connections | AI in Umbraco** → `ai-in-umbraco/concepts/connections.md` · `ai-in-umbraco/management-api/connections.md` · `docs.umbraco.com/ai-in-umbraco/concepts/connections.md` · `docs.umbraco.com/ai-in-umbraco/management-api/connections.md`
+- **Constraints** → `docs.umbraco.com/ai-in-umbraco/add-ons/agent/instructions.md`
+- **Context Picker | AI in Umbraco** → `ai-in-umbraco/concepts/context-picker.md` · `docs.umbraco.com/ai-in-umbraco/concepts/context-picker.md`
+- **Context Resource Types | AI in Umbraco** → `ai-in-umbraco/management-api/context-resource-types.md` · `docs.umbraco.com/ai-in-umbraco/management-api/context-resource-types.md`
+- **Contexts | AI in Umbraco** → `ai-in-umbraco/concepts/contexts.md` · `ai-in-umbraco/management-api/contexts.md` · `docs.umbraco.com/ai-in-umbraco/concepts/contexts.md` · `docs.umbraco.com/ai-in-umbraco/management-api/contexts.md`
+- **Copilot Usage | AI in Umbraco** → `ai-in-umbraco/add-ons/agent-copilot/copilot.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/agent-copilot/copilot.md`
+- **Core Concepts | AI in Umbraco** → `ai-in-umbraco/concepts/concepts.md` · `docs.umbraco.com/ai-in-umbraco/concepts/concepts.md`
+- **Core Deploy support (required)** → `docs.umbraco.com/ai-in-umbraco/add-ons/deploy/installation.md`
+- **Create Connection | AI in Umbraco** → `ai-in-umbraco/management-api/connections/create.md` · `docs.umbraco.com/ai-in-umbraco/management-api/connections/create.md`
+- **Create Context | AI in Umbraco** → `ai-in-umbraco/management-api/contexts/create.md` · `docs.umbraco.com/ai-in-umbraco/management-api/contexts/create.md`
+- **Create Guardrail | AI in Umbraco** → `ai-in-umbraco/management-api/guardrails/create.md` · `docs.umbraco.com/ai-in-umbraco/management-api/guardrails/create.md`
+- **Create Profile | AI in Umbraco** → `ai-in-umbraco/management-api/profiles/create.md` · `docs.umbraco.com/ai-in-umbraco/management-api/profiles/create.md`
+- **Create | AI in Umbraco** → `ai-in-umbraco/add-ons/prompt/api/create.md` · `ai-in-umbraco/add-ons/agent/api/create.md` · `ai-in-umbraco/testing-and-evaluation/api/create.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/agent/api/create.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/prompt/api/create.md` · `docs.umbraco.com/ai-in-umbraco/testing-and-evaluation/api/create.md`
+- **Creating a Provider | AI in Umbraco** → `ai-in-umbraco/extending/providers/creating-a-provider.md` · `docs.umbraco.com/ai-in-umbraco/extending/providers/creating-a-provider.md`
+- **Creating a Tool | AI in Umbraco** → `ai-in-umbraco/extending/tools/creating-a-tool.md` · `docs.umbraco.com/ai-in-umbraco/extending/tools/creating-a-tool.md`
+- **Custom Guardrail Evaluators | AI in Umbraco** → `ai-in-umbraco/extending/guardrails.md` · `docs.umbraco.com/ai-in-umbraco/extending/guardrails.md`
+- **Custom Providers | AI in Umbraco** → `ai-in-umbraco/extending/providers.md` · `docs.umbraco.com/ai-in-umbraco/extending/providers.md`
+- **Custom Tools | AI in Umbraco** → `ai-in-umbraco/extending/tools.md` · `docs.umbraco.com/ai-in-umbraco/extending/tools.md`
+- **Custom Vector Store | AI in Umbraco** → `ai-in-umbraco/add-ons/search/custom-vector-store.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/search/custom-vector-store.md`
+- **Delete Audit Log | AI in Umbraco** → `ai-in-umbraco/management-api/audit-logs/delete.md` · `docs.umbraco.com/ai-in-umbraco/management-api/audit-logs/delete.md`
+- **Delete Connection | AI in Umbraco** → `ai-in-umbraco/management-api/connections/delete.md` · `docs.umbraco.com/ai-in-umbraco/management-api/connections/delete.md`
+- **Delete Context | AI in Umbraco** → `ai-in-umbraco/management-api/contexts/delete.md` · `docs.umbraco.com/ai-in-umbraco/management-api/contexts/delete.md`
+- **Delete Guardrail | AI in Umbraco** → `ai-in-umbraco/management-api/guardrails/delete.md` · `docs.umbraco.com/ai-in-umbraco/management-api/guardrails/delete.md`
+- **Delete Profile | AI in Umbraco** → `ai-in-umbraco/management-api/profiles/delete.md` · `docs.umbraco.com/ai-in-umbraco/management-api/profiles/delete.md`
+- **Delete | AI in Umbraco** → `ai-in-umbraco/add-ons/prompt/api/delete.md` · `ai-in-umbraco/add-ons/agent/api/delete.md` · `ai-in-umbraco/testing-and-evaluation/api/delete.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/agent/api/delete.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/prompt/api/delete.md` · `docs.umbraco.com/ai-in-umbraco/testing-and-evaluation/api/delete.md`
+- **Deploy Support | AI in Umbraco** → `ai-in-umbraco/add-ons/deploy.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/deploy.md`
+- **Deploying Entities | AI in Umbraco** → `ai-in-umbraco/add-ons/deploy/deploying-entities.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/deploy/deploying-entities.md`
+- **Document ID** → `docs.umbraco.com/ai-in-umbraco/add-ons/search/concepts.md`
+- **Embedding** → `docs.umbraco.com/ai-in-umbraco/add-ons/search/concepts.md`
+- **Embedding Capability | AI in Umbraco** → `ai-in-umbraco/extending/providers/embedding-capability.md` · `docs.umbraco.com/ai-in-umbraco/extending/providers/embedding-capability.md`
+- **Embedding Middleware | AI in Umbraco** → `ai-in-umbraco/extending/middleware/embedding-middleware.md` · `docs.umbraco.com/ai-in-umbraco/extending/middleware/embedding-middleware.md`
+- **Embeddings Controller | AI in Umbraco** → `ai-in-umbraco/frontend/embeddings-controller.md` · `docs.umbraco.com/ai-in-umbraco/frontend/embeddings-controller.md`
+- **Embeddings | AI in Umbraco** → `ai-in-umbraco/using-the-api/embeddings.md` · `ai-in-umbraco/management-api/embeddings.md` · `docs.umbraco.com/ai-in-umbraco/management-api/embeddings.md` · `docs.umbraco.com/ai-in-umbraco/using-the-api/embeddings.md`
+- **Entity History | AI in Umbraco** → `ai-in-umbraco/management-api/audit-logs/entity-history.md` · `docs.umbraco.com/ai-in-umbraco/management-api/audit-logs/entity-history.md`
+- **Entity Lifecycle Notifications | AI in Umbraco** → `ai-in-umbraco/extending/notifications/entity-notifications.md` · `docs.umbraco.com/ai-in-umbraco/extending/notifications/entity-notifications.md`
+- **Execute | AI in Umbraco** → `ai-in-umbraco/add-ons/prompt/api/execute.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/prompt/api/execute.md`
+- **Extensible middleware** → `docs.umbraco.com/ai-in-umbraco.md`
+- **Format** → `docs.umbraco.com/ai-in-umbraco/add-ons/agent/instructions.md`
+- **Frontend Client | AI in Umbraco** → `ai-in-umbraco/add-ons/agent/frontend-client.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/agent/frontend-client.md`
+- **Frontend Tools | AI in Umbraco** → `ai-in-umbraco/add-ons/agent/frontend-tools.md` · `ai-in-umbraco/add-ons/agent-copilot/frontend-tools.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/agent/frontend-tools.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/agent-copilot/frontend-tools.md`
+- **Generate | AI in Umbraco** → `ai-in-umbraco/management-api/embeddings/generate.md` · `docs.umbraco.com/ai-in-umbraco/management-api/embeddings/generate.md`
+- **Generating Embeddings | AI in Umbraco** → `ai-in-umbraco/using-the-api/embeddings/generating-embeddings.md` · `docs.umbraco.com/ai-in-umbraco/using-the-api/embeddings/generating-embeddings.md`
+- **Get Audit Log | AI in Umbraco** → `ai-in-umbraco/management-api/audit-logs/get.md` · `docs.umbraco.com/ai-in-umbraco/management-api/audit-logs/get.md`
+- **Get Connection | AI in Umbraco** → `ai-in-umbraco/management-api/connections/get.md` · `docs.umbraco.com/ai-in-umbraco/management-api/connections/get.md`
+- **Get Context | AI in Umbraco** → `ai-in-umbraco/management-api/contexts/get.md` · `docs.umbraco.com/ai-in-umbraco/management-api/contexts/get.md`
+- **Get Guardrail | AI in Umbraco** → `ai-in-umbraco/management-api/guardrails/get.md` · `docs.umbraco.com/ai-in-umbraco/management-api/guardrails/get.md`
+- **Get History | AI in Umbraco** → `ai-in-umbraco/management-api/versions/history.md` · `docs.umbraco.com/ai-in-umbraco/management-api/versions/history.md`
+- **Get Models | AI in Umbraco** → `ai-in-umbraco/management-api/connections/models.md` · `docs.umbraco.com/ai-in-umbraco/management-api/connections/models.md`
+- **Get Profile | AI in Umbraco** → `ai-in-umbraco/management-api/profiles/get.md` · `docs.umbraco.com/ai-in-umbraco/management-api/profiles/get.md`
+- **Get Provider | AI in Umbraco** → `ai-in-umbraco/management-api/providers/get.md` · `docs.umbraco.com/ai-in-umbraco/management-api/providers/get.md`
+- **Get Resource Type | AI in Umbraco** → `ai-in-umbraco/management-api/context-resource-types/get.md` · `docs.umbraco.com/ai-in-umbraco/management-api/context-resource-types/get.md`
+- **Get Settings | AI in Umbraco** → `ai-in-umbraco/management-api/settings/get.md` · `docs.umbraco.com/ai-in-umbraco/management-api/settings/get.md`
+- **Get Version | AI in Umbraco** → `ai-in-umbraco/management-api/versions/get-version.md` · `docs.umbraco.com/ai-in-umbraco/management-api/versions/get-version.md`
+- **Get | AI in Umbraco** → `ai-in-umbraco/add-ons/prompt/api/get.md` · `ai-in-umbraco/add-ons/agent/api/get.md` · `ai-in-umbraco/testing-and-evaluation/api/get.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/agent/api/get.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/prompt/api/get.md` · `docs.umbraco.com/ai-in-umbraco/testing-and-evaluation/api/get.md`
+- **Getting Started | AI in Umbraco** → `ai-in-umbraco/add-ons/prompt/getting-started.md` · `ai-in-umbraco/add-ons/agent/getting-started.md` · `ai-in-umbraco/testing-and-evaluation/getting-started.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/agent/getting-started.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/prompt/getting-started.md` · `docs.umbraco.com/ai-in-umbraco/testing-and-evaluation/getting-started.md`
+- **Google Gemini | AI in Umbraco** → `ai-in-umbraco/providers/google.md` · `docs.umbraco.com/ai-in-umbraco/providers/google.md`
+- **Graders | AI in Umbraco** → `ai-in-umbraco/testing-and-evaluation/graders.md` · `docs.umbraco.com/ai-in-umbraco/testing-and-evaluation/graders.md`
+- **Guardrails** → `docs.umbraco.com/ai-in-umbraco/concepts/concepts.md`
+- **Guardrails | AI in Umbraco** → `ai-in-umbraco/concepts/guardrails.md` · `ai-in-umbraco/management-api/guardrails.md` · `docs.umbraco.com/ai-in-umbraco/concepts/guardrails.md` · `docs.umbraco.com/ai-in-umbraco/management-api/guardrails.md`
+- **Guidelines** → `docs.umbraco.com/ai-in-umbraco/add-ons/agent/instructions.md`
+- **HTML stripping** → `docs.umbraco.com/ai-in-umbraco/add-ons/search/concepts.md`
+- **IAIAuditLogService | AI in Umbraco** → `ai-in-umbraco/reference/services/ai-audit-log-service.md` · `docs.umbraco.com/ai-in-umbraco/reference/services/ai-audit-log-service.md`
+- **IAIChatService | AI in Umbraco** → `ai-in-umbraco/reference/services/ai-chat-service.md` · `docs.umbraco.com/ai-in-umbraco/reference/services/ai-chat-service.md`
+- **IAIConnectionService | AI in Umbraco** → `ai-in-umbraco/reference/services/ai-connection-service.md` · `docs.umbraco.com/ai-in-umbraco/reference/services/ai-connection-service.md`
+- **IAIContextService | AI in Umbraco** → `ai-in-umbraco/reference/services/ai-context-service.md` · `docs.umbraco.com/ai-in-umbraco/reference/services/ai-context-service.md`
+- **IAIEmbeddingService | AI in Umbraco** → `ai-in-umbraco/reference/services/ai-embedding-service.md` · `docs.umbraco.com/ai-in-umbraco/reference/services/ai-embedding-service.md`
+- **IAIEntityVersionService | AI in Umbraco** → `ai-in-umbraco/reference/services/ai-entity-version-service.md` · `docs.umbraco.com/ai-in-umbraco/reference/services/ai-entity-version-service.md`
+- **IAIGuardrailService | AI in Umbraco** → `ai-in-umbraco/reference/services/ai-guardrail-service.md` · `docs.umbraco.com/ai-in-umbraco/reference/services/ai-guardrail-service.md`
+- **IAIProfileService | AI in Umbraco** → `ai-in-umbraco/reference/services/ai-profile-service.md` · `docs.umbraco.com/ai-in-umbraco/reference/services/ai-profile-service.md`
+- **IAISettingsService | AI in Umbraco** → `ai-in-umbraco/reference/services/ai-settings-service.md` · `docs.umbraco.com/ai-in-umbraco/reference/services/ai-settings-service.md`
+- **IAIUsageAnalyticsService | AI in Umbraco** → `ai-in-umbraco/reference/services/ai-usage-analytics-service.md` · `docs.umbraco.com/ai-in-umbraco/reference/services/ai-usage-analytics-service.md`
+- **Installation | AI in Umbraco** → `ai-in-umbraco/getting-started/installation.md` · `ai-in-umbraco/add-ons/deploy/installation.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/deploy/installation.md` · `docs.umbraco.com/ai-in-umbraco/getting-started/installation.md`
+- **Instructions | AI in Umbraco** → `ai-in-umbraco/add-ons/agent/instructions.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/agent/instructions.md`
+- **List Audit Logs | AI in Umbraco** → `ai-in-umbraco/management-api/audit-logs/list.md` · `docs.umbraco.com/ai-in-umbraco/management-api/audit-logs/list.md`
+- **List Capabilities | AI in Umbraco** → `ai-in-umbraco/management-api/connections/capabilities.md` · `docs.umbraco.com/ai-in-umbraco/management-api/connections/capabilities.md`
+- **List Connections | AI in Umbraco** → `ai-in-umbraco/management-api/connections/list.md` · `docs.umbraco.com/ai-in-umbraco/management-api/connections/list.md`
+- **List Contexts | AI in Umbraco** → `ai-in-umbraco/management-api/contexts/list.md` · `docs.umbraco.com/ai-in-umbraco/management-api/contexts/list.md`
+- **List Evaluators | AI in Umbraco** → `ai-in-umbraco/management-api/guardrails/evaluators.md` · `docs.umbraco.com/ai-in-umbraco/management-api/guardrails/evaluators.md`
+- **List Guardrails | AI in Umbraco** → `ai-in-umbraco/management-api/guardrails/list.md` · `docs.umbraco.com/ai-in-umbraco/management-api/guardrails/list.md`
+- **List Profiles | AI in Umbraco** → `ai-in-umbraco/management-api/profiles/list.md` · `docs.umbraco.com/ai-in-umbraco/management-api/profiles/list.md`
+- **List Providers | AI in Umbraco** → `ai-in-umbraco/management-api/providers/list.md` · `docs.umbraco.com/ai-in-umbraco/management-api/providers/list.md`
+- **List Resource Types | AI in Umbraco** → `ai-in-umbraco/management-api/context-resource-types/list.md` · `docs.umbraco.com/ai-in-umbraco/management-api/context-resource-types/list.md`
+- **List Runs | AI in Umbraco** → `ai-in-umbraco/testing-and-evaluation/api/runs.md` · `docs.umbraco.com/ai-in-umbraco/testing-and-evaluation/api/runs.md`
+- **List Tool Scopes | AI in Umbraco** → `ai-in-umbraco/management-api/tools/scopes.md` · `docs.umbraco.com/ai-in-umbraco/management-api/tools/scopes.md`
+- **List Tools | AI in Umbraco** → `ai-in-umbraco/management-api/tools/list.md` · `docs.umbraco.com/ai-in-umbraco/management-api/tools/list.md`
+- **List | AI in Umbraco** → `ai-in-umbraco/add-ons/prompt/api/list.md` · `ai-in-umbraco/add-ons/agent/api/list.md` · `ai-in-umbraco/testing-and-evaluation/api/list.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/agent/api/list.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/prompt/api/list.md` · `docs.umbraco.com/ai-in-umbraco/testing-and-evaluation/api/list.md`
+- **Managing Connections | AI in Umbraco** → `ai-in-umbraco/backoffice/managing-connections.md` · `docs.umbraco.com/ai-in-umbraco/backoffice/managing-connections.md`
+- **Managing Contexts | AI in Umbraco** → `ai-in-umbraco/backoffice/managing-contexts.md` · `docs.umbraco.com/ai-in-umbraco/backoffice/managing-contexts.md`
+- **Managing Guardrails | AI in Umbraco** → `ai-in-umbraco/backoffice/managing-guardrails.md` · `docs.umbraco.com/ai-in-umbraco/backoffice/managing-guardrails.md`
+- **Managing Profiles | AI in Umbraco** → `ai-in-umbraco/backoffice/managing-profiles.md` · `docs.umbraco.com/ai-in-umbraco/backoffice/managing-profiles.md`
+- **Managing Settings | AI in Umbraco** → `ai-in-umbraco/backoffice/managing-settings.md` · `docs.umbraco.com/ai-in-umbraco/backoffice/managing-settings.md`
+- **Microsoft AI Foundry | AI in Umbraco** → `ai-in-umbraco/providers/microsoft-foundry.md` · `docs.umbraco.com/ai-in-umbraco/providers/microsoft-foundry.md`
+- **Middleware** → `docs.umbraco.com/ai-in-umbraco/concepts/concepts.md`
+- **Middleware Ordering | AI in Umbraco** → `ai-in-umbraco/extending/middleware/middleware-ordering.md` · `docs.umbraco.com/ai-in-umbraco/extending/middleware/middleware-ordering.md`
+- **Middleware | AI in Umbraco** → `ai-in-umbraco/concepts/middleware.md` · `ai-in-umbraco/extending/middleware.md` · `docs.umbraco.com/ai-in-umbraco/concepts/middleware.md` · `docs.umbraco.com/ai-in-umbraco/extending/middleware.md`
+- **Models | AI in Umbraco** → `ai-in-umbraco/reference/models.md` · `docs.umbraco.com/ai-in-umbraco/reference/models.md`
+- **Notifications | AI in Umbraco** → `ai-in-umbraco/extending/notifications.md` · `docs.umbraco.com/ai-in-umbraco/extending/notifications.md`
+- **Observability | AI in Umbraco** → `ai-in-umbraco/concepts/observability.md` · `docs.umbraco.com/ai-in-umbraco/concepts/observability.md`
+- **OpenAI | AI in Umbraco** → `ai-in-umbraco/providers/openai.md` · `docs.umbraco.com/ai-in-umbraco/providers/openai.md`
+- **Optional: Agent deployment** → `docs.umbraco.com/ai-in-umbraco/add-ons/deploy/installation.md`
+- **Optional: Prompt deployment** → `docs.umbraco.com/ai-in-umbraco/add-ons/deploy/installation.md`
+- **Overview | AI in Umbraco** → `ai-in-umbraco/add-ons/add-ons.md` · `ai-in-umbraco/providers/providers.md` · `ai-in-umbraco/getting-started/getting-started.md` · `ai-in-umbraco/using-the-api/using-the-api.md` · `ai-in-umbraco/testing-and-evaluation/tests.md` · `ai-in-umbraco/backoffice/backoffice.md` · `ai-in-umbraco/extending/extending.md` · `ai-in-umbraco/management-api/management-api.md` · `ai-in-umbraco/reference/reference.md` · `ai-in-umbraco/frontend/frontend.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/add-ons.md` · `docs.umbraco.com/ai-in-umbraco/backoffice/backoffice.md` · `docs.umbraco.com/ai-in-umbraco/extending/extending.md` · `docs.umbraco.com/ai-in-umbraco/frontend/frontend.md` · `docs.umbraco.com/ai-in-umbraco/getting-started/getting-started.md` · `docs.umbraco.com/ai-in-umbraco/management-api/management-api.md` · `docs.umbraco.com/ai-in-umbraco/providers/providers.md` · `docs.umbraco.com/ai-in-umbraco/reference/reference.md` · `docs.umbraco.com/ai-in-umbraco/testing-and-evaluation/tests.md` · `docs.umbraco.com/ai-in-umbraco/using-the-api/using-the-api.md`
+- **Permissions | AI in Umbraco** → `ai-in-umbraco/add-ons/agent/permissions.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/agent/permissions.md`
+- **Profile-based configuration** → `docs.umbraco.com/ai-in-umbraco.md`
+- **Profiles** → `docs.umbraco.com/ai-in-umbraco/concepts/concepts.md`
+- **Profiles | AI in Umbraco** → `ai-in-umbraco/concepts/profiles.md` · `ai-in-umbraco/management-api/profiles.md` · `docs.umbraco.com/ai-in-umbraco/concepts/profiles.md` · `docs.umbraco.com/ai-in-umbraco/management-api/profiles.md`
+- **Prompt Management | AI in Umbraco** → `ai-in-umbraco/add-ons/prompt.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/prompt.md`
+- **Property Actions | AI in Umbraco** → `ai-in-umbraco/add-ons/prompt/property-actions.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/prompt/property-actions.md`
+- **Provider Settings | AI in Umbraco** → `ai-in-umbraco/extending/providers/provider-settings.md` · `docs.umbraco.com/ai-in-umbraco/extending/providers/provider-settings.md`
+- **Provider-agnostic** → `docs.umbraco.com/ai-in-umbraco.md`
+- **Providers** → `docs.umbraco.com/ai-in-umbraco/concepts/concepts.md`
+- **Providers | AI in Umbraco** → `ai-in-umbraco/concepts/providers.md` · `ai-in-umbraco/management-api/providers.md` · `docs.umbraco.com/ai-in-umbraco/concepts/providers.md` · `docs.umbraco.com/ai-in-umbraco/management-api/providers.md`
+- **Reference | AI in Umbraco** → `ai-in-umbraco/add-ons/prompt/ai-prompt-service.md` · `ai-in-umbraco/add-ons/agent/ai-agent-service.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/agent/ai-agent-service.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/prompt/ai-prompt-service.md`
+- **Role** → `docs.umbraco.com/ai-in-umbraco/add-ons/agent/instructions.md`
+- **Rollback | AI in Umbraco** → `ai-in-umbraco/management-api/versions/rollback.md` · `docs.umbraco.com/ai-in-umbraco/management-api/versions/rollback.md`
+- **Run Batch | AI in Umbraco** → `ai-in-umbraco/testing-and-evaluation/api/run-batch.md` · `docs.umbraco.com/ai-in-umbraco/testing-and-evaluation/api/run-batch.md`
+- **Run by Tags | AI in Umbraco** → `ai-in-umbraco/testing-and-evaluation/api/run-by-tags.md` · `docs.umbraco.com/ai-in-umbraco/testing-and-evaluation/api/run-by-tags.md`
+- **Run | AI in Umbraco** → `ai-in-umbraco/add-ons/agent/api/run.md` · `ai-in-umbraco/testing-and-evaluation/api/run.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/agent/api/run.md` · `docs.umbraco.com/ai-in-umbraco/testing-and-evaluation/api/run.md`
+- **Scopes | AI in Umbraco** → `ai-in-umbraco/add-ons/agent/scopes.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/agent/scopes.md`
+- **Scoping | AI in Umbraco** → `ai-in-umbraco/add-ons/prompt/scoping.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/prompt/scoping.md`
+- **Semantic Search | AI in Umbraco** → `ai-in-umbraco/add-ons/search.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/search.md`
+- **Services | AI in Umbraco** → `ai-in-umbraco/reference/services.md` · `docs.umbraco.com/ai-in-umbraco/reference/services.md`
+- **Set constraints early** → `docs.umbraco.com/ai-in-umbraco/using-the-api/chat/system-prompts.md`
+- **Settings | AI in Umbraco** → `ai-in-umbraco/concepts/settings.md` · `ai-in-umbraco/management-api/settings.md` · `docs.umbraco.com/ai-in-umbraco/concepts/settings.md` · `docs.umbraco.com/ai-in-umbraco/management-api/settings.md`
+- **Speech-to-Text Capability | AI in Umbraco** → `ai-in-umbraco/extending/providers/speech-to-text-capability.md` · `docs.umbraco.com/ai-in-umbraco/extending/providers/speech-to-text-capability.md`
+- **Speech-to-Text Controller | AI in Umbraco** → `ai-in-umbraco/frontend/speech-to-text-controller.md` · `docs.umbraco.com/ai-in-umbraco/frontend/speech-to-text-controller.md`
+- **Speech-to-Text | AI in Umbraco** → `ai-in-umbraco/using-the-api/speech-to-text.md` · `docs.umbraco.com/ai-in-umbraco/using-the-api/speech-to-text.md`
+- **Storage** → `docs.umbraco.com/ai-in-umbraco/add-ons/search/concepts.md`
+- **Stream (AG-UI) | AI in Umbraco** → `ai-in-umbraco/add-ons/agent/api/stream-agui.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/agent/api/stream-agui.md`
+- **Stream | AI in Umbraco** → `ai-in-umbraco/add-ons/agent/api/stream.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/agent/api/stream.md`
+- **Streaming | AI in Umbraco** → `ai-in-umbraco/add-ons/agent/streaming.md` · `ai-in-umbraco/using-the-api/chat/streaming.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/agent/streaming.md` · `docs.umbraco.com/ai-in-umbraco/using-the-api/chat/streaming.md`
+- **Structured Output | AI in Umbraco** → `ai-in-umbraco/using-the-api/chat/structured-output.md` · `docs.umbraco.com/ai-in-umbraco/using-the-api/chat/structured-output.md`
+- **Style** → `docs.umbraco.com/ai-in-umbraco/add-ons/agent/instructions.md`
+- **Summary | AI in Umbraco** → `ai-in-umbraco/management-api/analytics/summary.md` · `docs.umbraco.com/ai-in-umbraco/management-api/analytics/summary.md`
+- **Supported Types | AI in Umbraco** → `ai-in-umbraco/management-api/versions/supported-types.md` · `docs.umbraco.com/ai-in-umbraco/management-api/versions/supported-types.md`
+- **System Prompts | AI in Umbraco** → `ai-in-umbraco/using-the-api/chat/system-prompts.md` · `docs.umbraco.com/ai-in-umbraco/using-the-api/chat/system-prompts.md`
+- **Template Syntax | AI in Umbraco** → `ai-in-umbraco/add-ons/prompt/template-syntax.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/prompt/template-syntax.md`
+- **Test Connection | AI in Umbraco** → `ai-in-umbraco/management-api/connections/test.md` · `docs.umbraco.com/ai-in-umbraco/management-api/connections/test.md`
+- **Text extraction** → `docs.umbraco.com/ai-in-umbraco/add-ons/search/concepts.md`
+- **Text query** → `docs.umbraco.com/ai-in-umbraco/add-ons/search/concepts.md`
+- **The First Connection | AI in Umbraco** → `ai-in-umbraco/getting-started/first-connection.md` · `docs.umbraco.com/ai-in-umbraco/getting-started/first-connection.md`
+- **The First Profile | AI in Umbraco** → `ai-in-umbraco/getting-started/first-profile.md` · `docs.umbraco.com/ai-in-umbraco/getting-started/first-profile.md`
+- **Time Series | AI in Umbraco** → `ai-in-umbraco/management-api/analytics/timeseries.md` · `docs.umbraco.com/ai-in-umbraco/management-api/analytics/timeseries.md`
+- **Tool Controller | AI in Umbraco** → `ai-in-umbraco/frontend/tool-controller.md` · `docs.umbraco.com/ai-in-umbraco/frontend/tool-controller.md`
+- **Tools | AI in Umbraco** → `ai-in-umbraco/using-the-api/tools.md` · `ai-in-umbraco/management-api/tools.md` · `docs.umbraco.com/ai-in-umbraco/management-api/tools.md` · `docs.umbraco.com/ai-in-umbraco/using-the-api/tools.md`
+- **Types | AI in Umbraco** → `ai-in-umbraco/frontend/types.md` · `docs.umbraco.com/ai-in-umbraco/frontend/types.md`
+- **UaiAgentRepository | AI in Umbraco** → `ai-in-umbraco/add-ons/agent/ai-agent-service/uai-agent-repository.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/agent/ai-agent-service/uai-agent-repository.md`
+- **Update Connection | AI in Umbraco** → `ai-in-umbraco/management-api/connections/update.md` · `docs.umbraco.com/ai-in-umbraco/management-api/connections/update.md`
+- **Update Context | AI in Umbraco** → `ai-in-umbraco/management-api/contexts/update.md` · `docs.umbraco.com/ai-in-umbraco/management-api/contexts/update.md`
+- **Update Guardrail | AI in Umbraco** → `ai-in-umbraco/management-api/guardrails/update.md` · `docs.umbraco.com/ai-in-umbraco/management-api/guardrails/update.md`
+- **Update Profile | AI in Umbraco** → `ai-in-umbraco/management-api/profiles/update.md` · `docs.umbraco.com/ai-in-umbraco/management-api/profiles/update.md`
+- **Update Settings | AI in Umbraco** → `ai-in-umbraco/management-api/settings/update.md` · `docs.umbraco.com/ai-in-umbraco/management-api/settings/update.md`
+- **Update | AI in Umbraco** → `ai-in-umbraco/add-ons/prompt/api/update.md` · `ai-in-umbraco/add-ons/agent/api/update.md` · `ai-in-umbraco/testing-and-evaluation/api/update.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/agent/api/update.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/prompt/api/update.md` · `docs.umbraco.com/ai-in-umbraco/testing-and-evaluation/api/update.md`
+- **Usage Analytics | AI in Umbraco** → `ai-in-umbraco/backoffice/usage-analytics.md` · `docs.umbraco.com/ai-in-umbraco/backoffice/usage-analytics.md`
+- **Use profiles for reuse** → `docs.umbraco.com/ai-in-umbraco/using-the-api/chat/system-prompts.md`
+- **Using Tools | AI in Umbraco** → `ai-in-umbraco/using-the-api/tools/using-tools.md` · `docs.umbraco.com/ai-in-umbraco/using-the-api/tools/using-tools.md`
+- **Variations | AI in Umbraco** → `ai-in-umbraco/testing-and-evaluation/variations.md` · `docs.umbraco.com/ai-in-umbraco/testing-and-evaluation/variations.md`
+- **Version History | AI in Umbraco** → `ai-in-umbraco/concepts/versioning.md` · `ai-in-umbraco/backoffice/version-history.md` · `docs.umbraco.com/ai-in-umbraco/backoffice/version-history.md` · `docs.umbraco.com/ai-in-umbraco/concepts/versioning.md`
+- **Versions | AI in Umbraco** → `ai-in-umbraco/management-api/versions.md` · `docs.umbraco.com/ai-in-umbraco/management-api/versions.md`
+- **Workflows | AI in Umbraco** → `ai-in-umbraco/add-ons/agent/workflows.md` · `docs.umbraco.com/ai-in-umbraco/add-ons/agent/workflows.md`
+- **Your task** → `docs.umbraco.com/ai-in-umbraco/add-ons/agent/instructions.md`
